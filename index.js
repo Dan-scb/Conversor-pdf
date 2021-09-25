@@ -21,7 +21,7 @@ async function main(){
 
         escritor.Write(Date.now + ".html", html)
         escritor.Write(Date.now() + '.pdf', html)
-    //console.log(html)
+    
 }
 
 main()
